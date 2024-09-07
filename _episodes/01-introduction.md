@@ -14,7 +14,7 @@ keypoints:
  - "You, as a user, will likely be gluing together many packages in each data analysis."
 ---
 
-# How much Python do we need to know?
+# How much Python do we need to know? teste!!!
 
 ## Basic Python
 
